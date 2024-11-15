@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Komol</h1>
-# Welcome to [Komol](https://komol78.me/) profile! <a href="https://www.komol78.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
-
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 ## Glad to see you here! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=AswinBarath.AswinBarath)
