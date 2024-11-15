@@ -15,7 +15,7 @@ That's why I like to make things that make a difference.
 
 <p align="left"> <a href="https://twitter.com/@dhruba19334599" target="blank"><img src="https://img.shields.io/twitter/follow/@dhruba19334599?logo=twitter&style=for-the-badge" alt="@dhruba19334599" /></a> </p>
 
-- 🔭 I’m currently working on **Car Mechanic**
+- 🔭 I’m currently working on **PHP LARAVEL**
 
 - 🌱 I’m currently learning **React.js, Node.js, & Android**
 
