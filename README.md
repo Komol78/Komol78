@@ -1,4 +1,4 @@
-![logo]([https://github.com/](https://test3.hgs.cx/wp-content/uploads/2023/03/blog-banner-ChatGPT-SM-warrior.webp))
+![logo](https://test3.hgs.cx/wp-content/uploads/2023/03/blog-banner-ChatGPT-SM-warrior.webp)
 <h1 align="center">Hi 👋, I'm Komol</h1>
 <h3 align="center">A passionate full-stack web developer from Bangladesh</h3>
 
