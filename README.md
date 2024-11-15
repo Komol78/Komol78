@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Komol</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate full-stack web developer from Bangladesh</h3>
 
 ## Glad to see you here! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=AswinBarath.AswinBarath)
 
@@ -100,7 +100,7 @@ That's why I like to make things that make a difference.
 
 ## 📊 Stats
 
-[![wakatime](https://wakatime.com/badge/user/0f3d8544-3446-40bb-987d-b1a8ed7d2cff.svg)](https://wakatime.com/@0f3d8544-3446-40bb-987d-b1a8ed7d2cff) <b>&nbsp; coded, since JAN 22 2021</b>
+[![wakatime](https://wakatime.com/badge/user/0f3d8544-3446-40bb-987d-b1a8ed7d2cff.svg)](https://wakatime.com/@0f3d8544-3446-40bb-987d-b1a8ed7d2cff) <b>&nbsp; coded, since JAN 28 2022</b>
 
 📊 <b>This Week I Spent My Time On</b>
 
@@ -108,9 +108,9 @@ That's why I like to make things that make a difference.
 ```text
 LARAVRL     5 hrs 3 mins    ███████████▒░░░░░░░░░░░░░   44.70 % 
 PHP         4 hrs 35 mins   ██████████░░░░░░░░░░░░░░░   40.59 % 
-JavaScript   1 hr 34 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.85 % 
-CSS          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
-HTML          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+JavaScript  1 hr 34 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.85 % 
+CSS        35 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+HTML       25 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 ```
 <!--END_SECTION:waka-->
 
