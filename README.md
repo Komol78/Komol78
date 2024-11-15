@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Komol Kanto Das</h1>
+<h1 align="center">Hi 👋, I'm Komol</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
+
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=komol78&label=Profile%20views&color=0e75b6&style=flat" alt="komol78" /> </p>
 
@@ -37,4 +39,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=komol78&show_icons=true&locale=en" alt="komol78" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=komol78&" alt="komol78" /></p>
-
