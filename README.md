@@ -3,7 +3,7 @@
 
 ## Glad to see you here! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=AswinBarath.AswinBarath)
 
-I am a full-stack software engineer and writer. I love programming, reading, writing and speaking.
+I am a full-stack web developer and a SQA software engineer and writer. Love programming, reading, writing and speaking.
 
 As a software engineer, I enjoy using my obsessive attention to detail, and my unequivocal love for making things that change the world.
 
