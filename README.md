@@ -42,11 +42,11 @@ That's why I like to make things that make a difference.
 &nbsp;
 <a href="https://kaggle.com/komol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="komol" height="30" width="40" /></a>
 &nbsp;
-<a href="https://stackoverflow.com/users/13064312/komol-barath?tab=profile" target="_blank"><img align="center" src="https://raw.githubusercontent.com/komol78/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13064312" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/13064312/komol-78?tab=profile" target="_blank"><img align="center" src="https://raw.githubusercontent.com/komol78/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13064312" height="30" width="40" /></a>
 &nbsp;
-<a href="https://www.hackerrank.com/komol" target="_blank"><img align="center" src="https://raw.githubusercontent.com/komol78/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="AswinBarath2" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/komol78" target="_blank"><img align="center" src="https://raw.githubusercontent.com/komol78/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="komol78" height="30" width="40" /></a>
 &nbsp;
-<a href="https://medium.com/@dhruvkomol" target="_blank"><img align="center" src="https://raw.githubusercontent.com/komol78/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aswin2001barath" height="30" width="40" /></a>
+<a href="https://medium.com/@dhruvkomol" target="_blank"><img align="center" src="https://raw.githubusercontent.com/komol78/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dhruvkomol" height="30" width="40" /></a>
 &nbsp;
 <a href="https://dev.to/komol78" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="komol2001dhruv" height="30" width="40" /></a>
 &nbsp;
