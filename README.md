@@ -19,7 +19,7 @@ That's why I like to make things that make a difference.
 
 - 🌱 I’m currently learning **React.js, Node.js, & Android**
 
-- 🤝 I’m looking for help with **Flutter Developer**
+- 🤝 I’m looking for help with **Android & Flutter Developer**
 
 - 💬 Ask me about **php, laravel react, node, html, css**
 
