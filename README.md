@@ -178,14 +178,13 @@ HTML       25 mins          ░░░░░░░░░░░░░░░░░�
 	<a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> 
 
 <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-  <img src="/images/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
+  <img src="https://th.bing.com/th?q=Laravel+Icon.png&w=120&h=120&c=1&rs=1&qlt=90&cb=1&dpr=1.4&pid=InlineBlock&mkt=en-WW&cc=BD&setlang=en&adlt=moderate&t=1&mw=247" alt="laravel" width="40" height="40"/>
 </a>
 	<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Adobe_XD_CC_logo_2019.svg" alt="xd" width="40" height="40"/>
+  <img src="https://th.bing.com/th/id/OIP.6i5noFpYJGMMrPxFzW6eXwHaHO?w=184&h=180&c=7&r=0&o=5&dpr=1.4&pid=1.7" alt="xd" width="40" height="40"/>
 </a>
 
-	
- <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> 
+<a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> 
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=komol78&show_icons=true&locale=en&layout=compact" alt="komol78" /></p>
