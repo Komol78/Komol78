@@ -178,9 +178,8 @@ HTML       25 mins          ░░░░░░░░░░░░░░░░░�
 	<a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> 
 
 <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" alt="php" width="40" height="40"/>
+  <img src="/images/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
 </a>
-
 	<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Adobe_XD_CC_logo_2019.svg" alt="xd" width="40" height="40"/>
 </a>
