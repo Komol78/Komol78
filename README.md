@@ -70,6 +70,8 @@ That's why I like to make things that make a difference.
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
+    <a href="#"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20.svg?logo=laravel&logoColor=white"></a>
+
 </p>
 
 ### 🗄️ Databases and Cloud Hosting
