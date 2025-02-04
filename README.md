@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Komol</h1>
 <h3 align="center">A passionate full-stack web developer from Bangladesh</h3>
 
-## Glad to see you here! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=AswinBarath.AswinBarath)
+## Glad to see you here! &nbsp; ![visitors](<a target="_blank" href="https://icons8.com/icon/5hcObnA2284Y/warranty">Badge</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>)
 
 I am a full-stack web developer and a SQA software engineer and writer. Love programming, reading, writing and speaking.
 
