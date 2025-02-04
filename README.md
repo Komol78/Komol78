@@ -2,7 +2,9 @@
 <h1 align="center">Hi 👋, I'm Komol</h1>
 <h3 align="center">A passionate full-stack web developer from Bangladesh</h3>
 
-## Glad to see you here! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=AswinBarath.AswinBarath)
+## Glad to see you here! &nbsp; ![visitors]<a href="https://www.example.com">
+  <img src="https://img.shields.io/badge/Visitors-Active-green?logo=github&logoColor=white" alt="Visitors Badge" style="border-radius: 10px; box-shadow: 0px 5px 20px rgba(0, 0, 0, 0.2);" />
+</a>
 
 I am a full-stack web developer and a SQA software engineer and writer. Love programming, reading, writing and speaking.
 
